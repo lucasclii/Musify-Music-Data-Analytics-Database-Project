@@ -96,4 +96,6 @@ A visualization showing the distribution of albums across different release year
 
 These visualizations provide a more intuitive way to identify patterns and trends in the underlying data.
 
-
+---
+## Team Member
+Yuqian Tan, Myungkeun Park, Chengjun Li
