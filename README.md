@@ -1,4 +1,4 @@
-# Musify-Music-Data-Analytics-Database-Project-Northeastern-University-FALL 2023
+# Music Data Analytics & Database Project
 
 ## Team Member
 Yuqian Tan, Myungkeun Park, Chengjun Li
@@ -11,7 +11,8 @@ Files included in our submission:
 2. TanYParkMLiC_app.py: This Python file contains the access point for the application
 3. Final Report__TanYParkMLiC.pdf : This is the final report for our database project.
 
-
+## Programming languages and libraries used : 
+SQL, MySQL, Python, Pandas, Matplotlib
 
 ## Project Overview
 
