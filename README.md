@@ -1,4 +1,17 @@
-# Musify-Music-Data-Analytics-Database-Project-Northeastern-University
+# Musify-Music-Data-Analytics-Database-Project-Northeastern-University-FALL 2023
+
+## Team Member
+Yuqian Tan, Myungkeun Park, Chengjun Li
+
+
+## File includes in the project
+Files included in our submission:
+
+1. TanYParkMLiC_dump.sql: This is a self-contained schema file that includes tables, data, and stored procedures. 
+2. TanYParkMLiC_app.py: This Python file contains the access point for the application
+3. Final Report__TanYParkMLiC.pdf : This is the final report for our database project.
+
+
 
 ## Project Overview
 
@@ -10,7 +23,7 @@ Beyond database management, the project demonstrates an end-to-end data workflow
 
 **Database → SQL Queries → Python/Pandas → Data Analysis → Visualization → Insights**
 
----
+
 
 ## Project Objectives
 
@@ -24,9 +37,9 @@ The project focused on:
 * Generating data-driven insights from music and user activity
 * Developing a functional application that allows users to interact with the database
 
----
 
-## 🗄️ Data & Database Design
+
+## Data & Database Design
 
 The database models relationships across several entities, including:
 
@@ -45,7 +58,7 @@ The relational structure allows analysis across multiple dimensions, such as **g
 
 The database was implemented using **MySQL**, with SQL used for database creation, management, and analytical queries.
 
----
+
 
 ## Data Analysis
 
@@ -71,7 +84,6 @@ The database also supports analysis of user activity, including:
 
 These analyses demonstrate how relational data can be transformed into meaningful metrics and insights.
 
----
 
 ## Data Visualization
 
@@ -96,6 +108,5 @@ A visualization showing the distribution of albums across different release year
 
 These visualizations provide a more intuitive way to identify patterns and trends in the underlying data.
 
----
-## Team Member
-Yuqian Tan, Myungkeun Park, Chengjun Li
+
+
