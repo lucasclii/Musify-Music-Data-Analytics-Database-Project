@@ -1,17 +1,10 @@
 # Music Data Analytics & Database Project
 
-## Team Member
-Yuqian Tan, Myungkeun Park, Chengjun Li
-
-
-## File includes in the project
-Files included in our submission:
-
+## Files for this project
 1. TanYParkMLiC_dump.sql: This is a self-contained schema file that includes tables, data, and stored procedures. 
 2. TanYParkMLiC_app.py: This Python file contains the access point for the application
-3. Final Report__TanYParkMLiC.pdf : This is the final report for our database project.
 
-## Programming languages and libraries used : 
+## Programming Languages And Libraries Used : 
 SQL, MySQL, Python, Pandas, Matplotlib
 
 ## Project Overview
@@ -109,5 +102,6 @@ A visualization showing the distribution of albums across different release year
 
 These visualizations provide a more intuitive way to identify patterns and trends in the underlying data.
 
-
+## Team Members Contributed in this Project
+Yuqian Tan, Myungkeun Park, Chengjun Li
 
