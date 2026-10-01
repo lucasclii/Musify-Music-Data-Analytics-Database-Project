@@ -9,15 +9,7 @@ SQL, MySQL, Python, Pandas, Matplotlib
 
 ## Project Overview
 
-**Musify** is a database-driven music platform developed as a team project at Northeastern University. The project combines **SQL, MySQL, Python, Pandas, and Matplotlib** to manage and analyze music-related data and generate insights into music trends and user activity.
-
-The project was designed around a relational database containing information about **artists, bands, albums, songs, genres, users, playlists, and reviews**.
-
-Beyond database management, the project demonstrates an end-to-end data workflow:
-
-**Database → SQL Queries → Python/Pandas → Data Analysis → Visualization → Insights**
-
-
+**Musify** is a database-driven music platform developed as a team project. The project combines **SQL, MySQL, Python, Pandas, and Matplotlib** to manage and analyze music-related data and generate insights into music trends and user activity.
 
 ## Project Objectives
 
